@@ -35,8 +35,8 @@ export default function Stage1() {
       {!answered ? (
         <>
           <Typography variant="body1">
-            "I speak without a mouth and hear without ears. I have nobody, but I
-            come alive with wind. What am I?"
+            I speak without a mouth and hear without ears. I have nobody, but I
+            come alive with wind. What am I?
           </Typography>
           <Button variant="contained" onClick={() => handleAnswer(false)}>
             A Whisper
